@@ -10,13 +10,13 @@ Client library for using Vnptpay APIs
 ## Cài đặt
 
 ``` js
-npm install @pay/vnptpay
+npm install @npay/vnptpay
 ```
 
 ## Vnptpay Client
 
 ``` js
-const Client = require('@pay/vnptpay')
+const Client = require('@npay/vnptpay')
 
 const client = new Client({
     serviceID: 6901,
